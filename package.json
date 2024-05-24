@@ -1,0 +1,23 @@
+{
+  "name": "threejs-journey",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Melissa Kipp",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vite": "^5.2.11",
+    "vite-plugin-restart": "^0.4.0"
+  },
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "lil-gui": "^0.19.2",
+    "three": "^0.164.1"
+  }
+}

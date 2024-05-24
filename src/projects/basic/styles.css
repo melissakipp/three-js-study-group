@@ -1,0 +1,16 @@
+@import '../../global.css';
+
+.basic-main {
+  margin: 2rem;
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center  ;
+}
+
+.animation {
+  border-radius: 1rem;
+  border: 2px solid #333;
+}
