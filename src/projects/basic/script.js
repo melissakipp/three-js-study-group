@@ -101,7 +101,7 @@ const animation = document.querySelector('canvas#animation');
 // Scene
 const sceneTwo = new THREE.Scene();
 // Set the background color
-sceneTwo.background = new THREE.Color(0xf8f8f8); // Sky blue
+sceneTwo.background = new THREE.Color(0xf8f8f8); 
 // Axes Helper
 const axesHelperTwo = new THREE.AxesHelper();
 sceneTwo.add(axesHelperTwo);
